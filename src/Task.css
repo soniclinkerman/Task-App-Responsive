@@ -1,0 +1,54 @@
+h4 {
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+  
+}
+
+.col {
+    text-align: center;
+    border: 2px solid #C5BBB7;
+    padding: 20px;
+<<<<<<< HEAD
+    margin: 0 auto;
+
+=======
+
+}
+
+
+.main {
+
+    margin: 0px 30px; 
+    /* padding: 20px; */
+    /* margin-top: 50px; */
+    /* margin-left: 70px;
+    max-width: 620px; */
+>>>>>>> f690a6c1352069e6dea89591e5c9d94082cd459f
+}
+
+
+.icon {
+    height: 50px;
+    padding: 20px;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+<<<<<<< HEAD
+.main {
+
+    margin: 0px 30px; 
+    /* padding: 20px; */
+    /* margin-top: 50px; */
+    /* margin-left: 70px;
+    max-width: 620px; */
+}
+
+
+
+=======
+>>>>>>> f690a6c1352069e6dea89591e5c9d94082cd459f

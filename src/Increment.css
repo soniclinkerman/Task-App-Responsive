@@ -1,0 +1,16 @@
+h2 {
+    margin: 0;
+}
+a{
+    background-color: #789ECB;
+    color: #FFF;
+    padding: 5px 40px;
+    border-radius: 2px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.number{
+    font-size: 20px;
+}
