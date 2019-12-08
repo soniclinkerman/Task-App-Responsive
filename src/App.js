@@ -35,6 +35,11 @@ function App() {
         <Task task={"Course"} icon={Course}/>
         </div>
 
+        <div className="columns" id="main">      
+        <Task task={"Web Dev"} icon={Code}/>
+        <Task task={"Design"} icon={Design}/>
+        </div>
+
         </div>
  
 
